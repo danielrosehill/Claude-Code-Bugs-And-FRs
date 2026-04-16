@@ -2,13 +2,27 @@
   "generated": "2026-04-16",
   "counts": {
     "drafts": 0,
-    "filed": 24,
-    "filed_open": 4,
+    "filed": 25,
+    "filed_open": 5,
     "filed_closed": 20,
-    "bugs": 6,
+    "bugs": 7,
     "feature_requests": 18
   },
   "items": [
+    {
+      "status": "filed-open",
+      "kind": "bug",
+      "title": "[BUG] `.claude/**` writes still prompt for permission despite explicit `Write(.claude/**)` and bare `Write` allowlist entries",
+      "upstream_number": 49378,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/49378",
+      "upstream_state": "open",
+      "created": "2026-04-16",
+      "closed": null,
+      "labels": [
+        "bug"
+      ],
+      "path": "bugs/49378-dot-claude-writes-still-prompt-for-permission.md"
+    },
     {
       "status": "filed-open",
       "kind": "bug",

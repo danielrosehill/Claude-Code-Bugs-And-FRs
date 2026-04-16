@@ -3,11 +3,12 @@
 _Generated 2026-04-16. See `index.json` for machine-readable form._
 
 - **Drafts:** 0
-- **Filed:** 24 (4 open, 20 closed)
-- **Bugs:** 6 • **Feature requests:** 18
+- **Filed:** 25 (5 open, 20 closed)
+- **Bugs:** 7 • **Feature requests:** 18
 
 ## Filed (newest first)
 
+- [`#49378`](bugs/49378-dot-claude-writes-still-prompt-for-permission.md) `open` — [BUG] `.claude/**` writes still prompt for permission despite explicit `Write(.claude/**)` and bare `Write` allowlist entries
 - [`#49372`](bugs/49372-two-http-mcp-servers-with-identical-url-but-different-h.md) `open` — [BUG] Two HTTP MCP servers with identical URL but different headers — only one registers (silent dedup)
 - [`#38203`](bugs/38203-images-are-always-injected-as-binaries-on-linux-can-t-provid.md) `closed` — [BUG] Images are always injected as binaries on Linux - can't provide a path
 - [`#37426`](feature-requests/37426-claude-ai-connectors-and-claude-code-connection.md) `open` — [DOCS] Claude.ai Connectors And Claude Code Connection
