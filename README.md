@@ -7,13 +7,14 @@ Staging area for Claude Code issues before filing upstream at [anthropics/claude
 <!-- INDEX:START -->
 
 - **Drafts:** 0
-- **Filed:** 25 (5 open, 20 closed)
-- **Bugs:** 7 • **Feature requests:** 18
+- **Filed:** 26 (6 open, 20 closed)
+- **Bugs:** 7 • **Feature requests:** 19
 
 ### Filed (newest first)
 
 | Type | Date Added | State | Title | Local | Upstream |
 |------|------------|-------|-------|-------|----------|
+| ✨ feature | 2026-04-16 | 🟢 open | Ship a first-party feedback skill for filing issues from inside Claude Code | [file](feature-requests/49413-ship-a-first-party-feedback-skill-for-filing-issues-from-ins.md) | [#49413](https://github.com/anthropics/claude-code/issues/49413) |
 | 🐛 bug | 2026-04-16 | 🟢 open | `.claude/**` writes still prompt for permission despite explicit `Write(.claude/**)` and bare `Write` allowlist entries | [file](bugs/49378-dot-claude-writes-still-prompt-for-permission.md) | [#49378](https://github.com/anthropics/claude-code/issues/49378) |
 | 🐛 bug | 2026-04-16 | 🟢 open | Two HTTP MCP servers with identical URL but different headers — only one registers (silent dedup) | [file](bugs/49372-two-http-mcp-servers-with-identical-url-but-different-h.md) | [#49372](https://github.com/anthropics/claude-code/issues/49372) |
 | 🐛 bug | 2026-03-24 | 🔴 closed | Images are always injected as binaries on Linux - can't provide a path | [file](bugs/38203-images-are-always-injected-as-binaries-on-linux-can-t-provid.md) | [#38203](https://github.com/anthropics/claude-code/issues/38203) |

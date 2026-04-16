@@ -2,13 +2,28 @@
   "generated": "2026-04-16",
   "counts": {
     "drafts": 0,
-    "filed": 25,
-    "filed_open": 5,
+    "filed": 26,
+    "filed_open": 6,
     "filed_closed": 20,
     "bugs": 7,
-    "feature_requests": 18
+    "feature_requests": 19
   },
   "items": [
+    {
+      "status": "filed-open",
+      "kind": "feature-request",
+      "title": "[FEATURE] Ship a first-party feedback skill for filing issues from inside Claude Code",
+      "upstream_number": 49413,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/49413",
+      "upstream_state": "open",
+      "created": "2026-04-16",
+      "closed": null,
+      "labels": [
+        "enhancement",
+        "area:skills"
+      ],
+      "path": "feature-requests/49413-ship-a-first-party-feedback-skill-for-filing-issues-from-ins.md"
+    },
     {
       "status": "filed-open",
       "kind": "bug",
