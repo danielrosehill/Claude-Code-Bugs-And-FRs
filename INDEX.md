@@ -2,16 +2,13 @@
 
 _Generated 2026-04-16. See `index.json` for machine-readable form._
 
-- **Drafts:** 1
-- **Filed:** 23 (3 open, 20 closed)
+- **Drafts:** 0
+- **Filed:** 24 (4 open, 20 closed)
 - **Bugs:** 6 • **Feature requests:** 18
-
-## Drafts
-
-- [`drafts/mcp-http-dedup-by-url.md`](drafts/mcp-http-dedup-by-url.md) — [BUG] Two HTTP MCP servers with the same URL but different headers — only one registers
 
 ## Filed (newest first)
 
+- [`#49372`](bugs/49372-two-http-mcp-servers-with-identical-url-but-different-h.md) `open` — [BUG] Two HTTP MCP servers with identical URL but different headers — only one registers (silent dedup)
 - [`#38203`](bugs/38203-images-are-always-injected-as-binaries-on-linux-can-t-provid.md) `closed` — [BUG] Images are always injected as binaries on Linux - can't provide a path
 - [`#37426`](feature-requests/37426-claude-ai-connectors-and-claude-code-connection.md) `open` — [DOCS] Claude.ai Connectors And Claude Code Connection
 - [`#33025`](feature-requests/33025-toggle-behavior-for-voice-mode.md) `open` — [FEATURE] Toggle behavior for voice mode!

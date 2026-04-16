@@ -1,25 +1,27 @@
 {
   "generated": "2026-04-16",
   "counts": {
-    "drafts": 1,
-    "filed": 23,
-    "filed_open": 3,
+    "drafts": 0,
+    "filed": 24,
+    "filed_open": 4,
     "filed_closed": 20,
     "bugs": 6,
     "feature_requests": 18
   },
   "items": [
     {
-      "status": "draft",
+      "status": "filed-open",
       "kind": "bug",
-      "title": "[BUG] Two HTTP MCP servers with the same URL but different headers \u2014 only one registers",
-      "upstream_number": null,
-      "upstream_url": null,
-      "upstream_state": null,
+      "title": "[BUG] Two HTTP MCP servers with identical URL but different headers \u2014 only one registers (silent dedup)",
+      "upstream_number": 49372,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/49372",
+      "upstream_state": "open",
       "created": "2026-04-16",
       "closed": null,
-      "labels": [],
-      "path": "drafts/mcp-http-dedup-by-url.md"
+      "labels": [
+        "bug"
+      ],
+      "path": "bugs/49372-two-http-mcp-servers-with-identical-url-but-different-h.md"
     },
     {
       "status": "filed-closed-duplicate",

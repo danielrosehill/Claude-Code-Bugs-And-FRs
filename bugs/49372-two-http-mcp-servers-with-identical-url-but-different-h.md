@@ -1,15 +1,18 @@
 ---
-status: draft
+status: filed-open
 kind: bug
 created: 2026-04-16
-upstream_url: null
-upstream_number: null
-needs: clean reproduction with two dummy HTTP MCP servers at the same URL
+filed: 2026-04-16
+upstream_url: https://github.com/anthropics/claude-code/issues/49372
+upstream_number: 49372
+upstream_state: open
+labels: [bug]
 ---
 
-# [BUG] Two HTTP MCP servers with the same URL but different headers — only one registers
+# [BUG] Two HTTP MCP servers with identical URL but different headers — only one registers (silent dedup)
 
-**Status:** draft (needs reproduction before filing)
+**Upstream:** [#49372](https://github.com/anthropics/claude-code/issues/49372) — `OPEN`
+**Filed:** 2026-04-16
 
 ---
 
