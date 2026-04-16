@@ -1,0 +1,384 @@
+{
+  "generated": "2026-04-16",
+  "counts": {
+    "drafts": 1,
+    "filed": 23,
+    "filed_open": 3,
+    "filed_closed": 20,
+    "bugs": 6,
+    "feature_requests": 18
+  },
+  "items": [
+    {
+      "status": "draft",
+      "kind": "bug",
+      "title": "[BUG] Two HTTP MCP servers with the same URL but different headers \u2014 only one registers",
+      "upstream_number": null,
+      "upstream_url": null,
+      "upstream_state": null,
+      "created": "2026-04-16",
+      "closed": null,
+      "labels": [],
+      "path": "drafts/mcp-http-dedup-by-url.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "bug",
+      "title": "[BUG] Images are always injected as binaries on Linux - can't provide a path",
+      "upstream_number": 38203,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/38203",
+      "upstream_state": "closed",
+      "created": "2026-03-24",
+      "closed": "2026-03-28",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "bugs/38203-images-are-always-injected-as-binaries-on-linux-can-t-provid.md"
+    },
+    {
+      "status": "filed-open",
+      "kind": "feature-request",
+      "title": "[DOCS] Claude.ai Connectors And Claude Code Connection",
+      "upstream_number": 37426,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/37426",
+      "upstream_state": "open",
+      "created": "2026-03-22",
+      "closed": null,
+      "labels": [
+        "documentation",
+        "area:mcp",
+        "stale"
+      ],
+      "path": "feature-requests/37426-claude-ai-connectors-and-claude-code-connection.md"
+    },
+    {
+      "status": "filed-open",
+      "kind": "feature-request",
+      "title": "[FEATURE] Toggle behavior for voice mode!",
+      "upstream_number": 33025,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/33025",
+      "upstream_state": "open",
+      "created": "2026-03-11",
+      "closed": null,
+      "labels": [
+        "enhancement",
+        "area:tui",
+        "stale"
+      ],
+      "path": "feature-requests/33025-toggle-behavior-for-voice-mode.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] Make the 'x' icon larger in the VS Code conversation pane!",
+      "upstream_number": 15505,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/15505",
+      "upstream_state": "closed",
+      "created": "2025-12-27",
+      "closed": "2026-02-14",
+      "labels": [
+        "enhancement",
+        "area:ide",
+        "autoclose"
+      ],
+      "path": "feature-requests/15505-make-the-x-icon-larger-in-the-vs-code-conversation-pane.md"
+    },
+    {
+      "status": "filed-closed-other",
+      "kind": "feature-request",
+      "title": "[FEATURE] Time awareness as a built in MCP",
+      "upstream_number": 15271,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/15271",
+      "upstream_state": "closed",
+      "created": "2025-12-24",
+      "closed": "2025-12-26",
+      "labels": [
+        "enhancement",
+        "area:mcp"
+      ],
+      "path": "feature-requests/15271-time-awareness-as-a-built-in-mcp.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "bug",
+      "title": "[BUG] VS Code Extension Defaulting To Sonnet, Ignoring Model Setting",
+      "upstream_number": 14973,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/14973",
+      "upstream_state": "closed",
+      "created": "2025-12-21",
+      "closed": "2025-12-25",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "bugs/14973-vs-code-extension-defaulting-to-sonnet-ignoring-model-settin.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] Native support for audio as a modality",
+      "upstream_number": 14444,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/14444",
+      "upstream_state": "closed",
+      "created": "2025-12-18",
+      "closed": "2026-03-08",
+      "labels": [
+        "enhancement",
+        "area:model",
+        "area:core",
+        "stale"
+      ],
+      "path": "feature-requests/14444-native-support-for-audio-as-a-modality.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "feature-request",
+      "title": "[FEATURE]  Native support for multiple accounts",
+      "upstream_number": 12810,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/12810",
+      "upstream_state": "closed",
+      "created": "2025-12-01",
+      "closed": "2025-12-05",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "feature-requests/12810-native-support-for-multiple-accounts.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "bug",
+      "title": "[BUG]  Agent does not follow the correct format when creating sub-agents.",
+      "upstream_number": 12732,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/12732",
+      "upstream_state": "closed",
+      "created": "2025-11-30",
+      "closed": "2026-01-30",
+      "labels": [
+        "bug",
+        "has repro",
+        "platform:linux",
+        "area:core",
+        "autoclose"
+      ],
+      "path": "bugs/12732-agent-does-not-follow-the-correct-format-when-creating-sub-a.md"
+    },
+    {
+      "status": "filed-closed-other",
+      "kind": "feature-request",
+      "title": "[FEATURE] Unobtrusive editing mode in VS Code",
+      "upstream_number": 12363,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/12363",
+      "upstream_state": "closed",
+      "created": "2025-11-25",
+      "closed": "2025-11-25",
+      "labels": [
+        "enhancement",
+        "area:tui",
+        "area:ide"
+      ],
+      "path": "feature-requests/12363-unobtrusive-editing-mode-in-vs-code.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] Context flood protection",
+      "upstream_number": 12349,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/12349",
+      "upstream_state": "closed",
+      "created": "2025-11-25",
+      "closed": "2026-01-27",
+      "labels": [
+        "enhancement",
+        "area:core",
+        "memory",
+        "autoclose"
+      ],
+      "path": "feature-requests/12349-context-flood-protection.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] List subcommand for plugins",
+      "upstream_number": 11740,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/11740",
+      "upstream_state": "closed",
+      "created": "2025-11-16",
+      "closed": "2026-01-18",
+      "labels": [
+        "enhancement",
+        "area:tools",
+        "area:mcp",
+        "autoclose"
+      ],
+      "path": "feature-requests/11740-list-subcommand-for-plugins.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "feature-request",
+      "title": "[FEATURE] Claude Code should have its own docs in knowledge!",
+      "upstream_number": 11352,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/11352",
+      "upstream_state": "closed",
+      "created": "2025-11-10",
+      "closed": "2025-11-14",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "feature-requests/11352-claude-code-should-have-its-own-docs-in-knowledge.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] Built in slashes should appear before user slashes when keywords match",
+      "upstream_number": 11330,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/11330",
+      "upstream_state": "closed",
+      "created": "2025-11-09",
+      "closed": "2026-01-11",
+      "labels": [
+        "enhancement",
+        "area:tui",
+        "area:mcp",
+        "autoclose"
+      ],
+      "path": "feature-requests/11330-built-in-slashes-should-appear-before-user-slashes-when-keyw.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "feature-request",
+      "title": "[FEATURE] Enhance contrast between highlighted and non-highlighted slash commands",
+      "upstream_number": 10511,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/10511",
+      "upstream_state": "closed",
+      "created": "2025-10-28",
+      "closed": "2025-11-01",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "feature-requests/10511-enhance-contrast-between-highlighted-and-non-highlighted-sla.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "feature-request",
+      "title": "[UI] Make the usage warning hideable",
+      "upstream_number": 10433,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/10433",
+      "upstream_state": "closed",
+      "created": "2025-10-27",
+      "closed": "2025-10-31",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "feature-requests/10433-make-the-usage-warning-hideable.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] Private and public CLAUDE.md",
+      "upstream_number": 10118,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/10118",
+      "upstream_state": "closed",
+      "created": "2025-10-22",
+      "closed": "2026-01-08",
+      "labels": [
+        "enhancement",
+        "area:core",
+        "area:security",
+        "autoclose"
+      ],
+      "path": "feature-requests/10118-private-and-public-claude-md.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] The ability to link multiple claude code environments",
+      "upstream_number": 10069,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/10069",
+      "upstream_state": "closed",
+      "created": "2025-10-21",
+      "closed": "2026-01-08",
+      "labels": [
+        "enhancement",
+        "area:core",
+        "autoclose"
+      ],
+      "path": "feature-requests/10069-the-ability-to-link-multiple-claude-code-environments.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "feature-request",
+      "title": "[FEATURE] Invoke Claude Code with an agent or slash command",
+      "upstream_number": 9660,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/9660",
+      "upstream_state": "closed",
+      "created": "2025-10-16",
+      "closed": "2025-10-20",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "feature-requests/09660-invoke-claude-code-with-an-agent-or-slash-command.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "feature-request",
+      "title": "[FEATURE] Intelligent handling of virtual environment in Python projects.",
+      "upstream_number": 9368,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/9368",
+      "upstream_state": "closed",
+      "created": "2025-10-11",
+      "closed": "2025-10-15",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "feature-requests/09368-intelligent-handling-of-virtual-environment-in-python-projec.md"
+    },
+    {
+      "status": "filed-closed-stale",
+      "kind": "feature-request",
+      "title": "[FEATURE] Advanced task management with context cutting controls",
+      "upstream_number": 9202,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/9202",
+      "upstream_state": "closed",
+      "created": "2025-10-09",
+      "closed": "2026-01-07",
+      "labels": [
+        "enhancement",
+        "area:tui",
+        "area:core",
+        "memory",
+        "autoclose"
+      ],
+      "path": "feature-requests/09202-advanced-task-management-with-context-cutting-controls.md"
+    },
+    {
+      "status": "filed-closed-duplicate",
+      "kind": "bug",
+      "title": "[BUG] Shift + tab not persisting",
+      "upstream_number": 9145,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/9145",
+      "upstream_state": "closed",
+      "created": "2025-10-08",
+      "closed": "2025-10-12",
+      "labels": [
+        "duplicate"
+      ],
+      "path": "bugs/09145-shift-tab-not-persisting.md"
+    },
+    {
+      "status": "filed-open",
+      "kind": "bug",
+      "title": "[BUG] Can't paste image from clipboard on Linux (Ubuntu)",
+      "upstream_number": 8324,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/8324",
+      "upstream_state": "open",
+      "created": "2025-09-28",
+      "closed": null,
+      "labels": [
+        "bug",
+        "has repro",
+        "platform:linux",
+        "area:tui"
+      ],
+      "path": "bugs/08324-can-t-paste-image-from-clipboard-on-linux-ubuntu.md"
+    }
+  ]
+}
