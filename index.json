@@ -1,14 +1,47 @@
 {
-  "generated": "2026-04-16",
+  "generated": "2026-04-21",
   "counts": {
     "drafts": 0,
-    "filed": 26,
-    "filed_open": 6,
+    "filed": 28,
+    "filed_open": 8,
     "filed_closed": 20,
-    "bugs": 7,
-    "feature_requests": 19
+    "bugs": 8,
+    "feature_requests": 20
   },
   "items": [
+    {
+      "status": "filed-open",
+      "kind": "feature-request",
+      "title": "[DOCS] Describe process for creating private plugins",
+      "upstream_number": 51348,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/51348",
+      "upstream_state": "open",
+      "created": "2026-04-20",
+      "closed": null,
+      "labels": [
+        "documentation",
+        "enhancement",
+        "area:docs",
+        "area:plugins"
+      ],
+      "path": "feature-requests/51348-describe-process-for-creating-private-plugins.md"
+    },
+    {
+      "status": "filed-open",
+      "kind": "bug",
+      "title": "[MODEL] Claude suggests inconsistent paths under user level Claude store (.claude) for plugin workspaces",
+      "upstream_number": 51342,
+      "upstream_url": "https://github.com/anthropics/claude-code/issues/51342",
+      "upstream_state": "open",
+      "created": "2026-04-20",
+      "closed": null,
+      "labels": [
+        "bug",
+        "area:model",
+        "area:plugins"
+      ],
+      "path": "bugs/51342-claude-suggests-inconsistent-paths-for-plugin-workspaces.md"
+    },
     {
       "status": "filed-open",
       "kind": "feature-request",

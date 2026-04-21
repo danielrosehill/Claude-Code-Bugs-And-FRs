@@ -7,15 +7,17 @@ Staging area for Claude Code issues before filing upstream at [anthropics/claude
 <!-- INDEX:START -->
 
 - **Drafts:** 0
-- **Filed:** 26 (6 open, 20 closed)
-- **Bugs:** 7 • **Feature requests:** 19
+- **Filed:** 28 (8 open, 20 closed)
+- **Bugs:** 8 • **Feature requests:** 20
 
 ### Filed (newest first)
 
 | Type | Date Added | State | Title | Local | Upstream |
 |------|------------|-------|-------|-------|----------|
+| ✨ feature | 2026-04-20 | 🟢 open | Describe process for creating private plugins | [file](feature-requests/51348-describe-process-for-creating-private-plugins.md) | [#51348](https://github.com/anthropics/claude-code/issues/51348) |
+| 🐛 bug | 2026-04-20 | 🟢 open | Claude suggests inconsistent paths under user level Claude store (.claude) for plugin workspaces | [file](bugs/51342-claude-suggests-inconsistent-paths-for-plugin-workspaces.md) | [#51342](https://github.com/anthropics/claude-code/issues/51342) |
 | ✨ feature | 2026-04-16 | 🟢 open | Ship a first-party feedback skill for filing issues from inside Claude Code | [file](feature-requests/49413-ship-a-first-party-feedback-skill-for-filing-issues-from-ins.md) | [#49413](https://github.com/anthropics/claude-code/issues/49413) |
-| 🐛 bug | 2026-04-16 | 🟢 open | `.claude/**` writes still prompt for permission despite explicit `Write(.claude/**)` and bare `Write` allowlist entries | [file](bugs/49378-dot-claude-writes-still-prompt-for-permission.md) | [#49378](https://github.com/anthropics/claude-code/issues/49378) |
+| 🐛 bug | 2026-04-16 | 🔴 closed | `.claude/**` writes still prompt for permission despite explicit `Write(.claude/**)` and bare `Write` allowlist entries | [file](bugs/49378-dot-claude-writes-still-prompt-for-permission.md) | [#49378](https://github.com/anthropics/claude-code/issues/49378) |
 | 🐛 bug | 2026-04-16 | 🟢 open | Two HTTP MCP servers with identical URL but different headers — only one registers (silent dedup) | [file](bugs/49372-two-http-mcp-servers-with-identical-url-but-different-h.md) | [#49372](https://github.com/anthropics/claude-code/issues/49372) |
 | 🐛 bug | 2026-03-24 | 🔴 closed | Images are always injected as binaries on Linux - can't provide a path | [file](bugs/38203-images-are-always-injected-as-binaries-on-linux-can-t-provid.md) | [#38203](https://github.com/anthropics/claude-code/issues/38203) |
 | ✨ feature | 2026-03-22 | 🟢 open | Claude.ai Connectors And Claude Code Connection | [file](feature-requests/37426-claude-ai-connectors-and-claude-code-connection.md) | [#37426](https://github.com/anthropics/claude-code/issues/37426) |
